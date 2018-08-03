@@ -47,3 +47,8 @@ RegisterPlayer(playerid, password)
 {
 
 }
+
+LoadPlayerAccount(playerid)
+{
+	
+}

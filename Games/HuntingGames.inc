@@ -7,3 +7,18 @@
 * 	- File: Hunting games file.					   		*
 *														*
 *********************************************************/
+
+public MoneyBag()
+{
+	
+}
+
+public GiftsHunt()
+{
+
+}
+
+public CookiesHunt()
+{
+
+}
