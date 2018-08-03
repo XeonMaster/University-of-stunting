@@ -7,3 +7,13 @@
 * 	- File: Fortnite file.							   	*
 *														*
 *********************************************************/
+
+#define BUS_STARTING_POS_X 		(0.0)
+#define BUS_STARTING_POS_Y 		(0.0)
+#define BUS_STARTING_POS_Z 		(0.0)
+
+#define BUS_FLOATING_SPEED 		(1.0)
+
+#define MAX_PLAYERS_BATTLEROYAL (20)
+
+#define TIME_SECONDS			(60*5)
