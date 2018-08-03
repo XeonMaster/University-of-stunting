@@ -71,7 +71,6 @@ enum ENUM_PLAYER_INFO
 	// General Settings
 	/* Staff levels */
 	Admin,
-	Helper,
 	VIP,
 
 	/* Other */
