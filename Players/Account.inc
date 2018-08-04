@@ -37,7 +37,6 @@ CheckRegistration(playerid)
 		}
 	}
 }
-
 StartRegistrationProcess(playerid)
 {
 	ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_PASSWORD, "{F81414}"SERVER_TAG": {FFFFFF}Login", "Register" "Welcome Dear player!\nWelcome again to our server, we hope that you will have the best experience here!\nPlease put a password that you are going to use it for your next login!", "Register", "Cancel");

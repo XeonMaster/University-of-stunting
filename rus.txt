@@ -1,12 +1,9 @@
-C:\Users\irika\OneDrive\Documents\GitHub\xsf-script\pawno\include\sscanf2.inc(234) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SSCANF_OnPlayerConnect"
-C:\Users\irika\OneDrive\Documents\GitHub\xsf-script\pawno\include\sscanf2.inc(258) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SSCANF_OnPlayerDisconnect"
-C:\Users\irika\OneDrive\Bureau\UoS\Uos.pwn(11) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "AdminLevel"
-C:\Users\irika\OneDrive\Bureau\UoS\Uos.pwn(55) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetGPCI"
-C:\Users\irika\OneDrive\Bureau\UoS\Uos.pwn(47) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetIP"
-C:\Users\irika\OneDrive\Bureau\UoS\Uos.pwn(40) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetName"
-C:\Users\irika\OneDrive\Bureau\UoS\Uos.pwn(108) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetPlayerID"
-C:\Users\irika\OneDrive\Bureau\UoS\Uos.pwn(121) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ResetVariables"
+C:\Users\irika\OneDrive\Documents\GitHub\University-of-stunting\Uos.pwn(40) : ôàòàëüíàÿ îøèáêà 111: ïîëüçîâàòåëüñêàÿ îøèáêà: Error: players/main.pwn is not fully included.
+
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
 
 
-Îøèáîê:2.
+Îøèáîê:1.

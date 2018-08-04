@@ -29,8 +29,37 @@
 
 // Global Gamemode.
 #include "Server/main.pwn"
+
+#if !defined servermain
+	#error Error: players/main.pwn is not fully included.
+#endif
+
 #include "Administration/main.pwn"
+
+#if !defined adminsmain
+	#error Error: players/main.pwn is not fully included.
+#endif
+
 #include "Players/main.pwn"
+
+#if !defined playersmain
+	#error Error: players/main.pwn is not fully included.
+#endif
+
 #include "Games/main.pwn"
+
+#if !defined gamessmain
+	#error Error: players/main.pwn is not fully included.
+#endif
+
 #include "Maps/main.pwn"
+
+#if !defined mapsmain
+	#error Error: players/main.pwn is not fully included.
+#endif
+
 #include "Social Media/main.pwn"
+
+#if !defined socialmain
+	#error Error: players/main.pwn is not fully included.
+#endif

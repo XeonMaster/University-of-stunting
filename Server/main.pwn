@@ -10,3 +10,5 @@
 
 #include "Server/Variables & Functions.inc"
 #include "Server/Dialog.inc"
+
+#define servermain
