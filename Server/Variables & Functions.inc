@@ -18,6 +18,13 @@
 
 #define DisconnectUser(%0,%1)		SetTimerEx("DisconnectPlayer", 1000, false, "ii", %0, %1)
 
+cache_xeon_rows()
+{
+	new rows;
+	cache_get_row_count(rows);
+	return rows;
+}
+
 // @Global mysql.inc
 new MySQL:handle;
 
@@ -77,6 +84,7 @@ enum ENUM_PLAYER_INFO
 	Skin,
 	Deaths, 
 	Kills,
+	JoinDate,
 
 	// Social media
 	discord_id,
