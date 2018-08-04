@@ -170,15 +170,29 @@ LoadPlayerAccount(playerid)
 	cache_get_value_name_int(0, "Bounce", PlayerInfo[playerid][Bounce]);
 	cache_get_value_name_int(0, "SpeedBoost", PlayerInfo[playerid][SpeedBoost]);
 
+	// Achievements
+	new string[24]
+	cache_get_value_name_int(0, "Achievements", string); 
+	
+	sscanf(string 
+		"i(0)i(0)i(0)i(0)i(0)i(0)i(0)i(0)i(0)i(0)", 
+		PlayerInfo[playerid][Achievements[0]], 
+		PlayerInfo[playerid][Achievements[1]],
+		PlayerInfo[playerid][Achievements[2]],
+		PlayerInfo[playerid][Achievements[3]],
+		PlayerInfo[playerid][Achievements[4]],
+		PlayerInfo[playerid][Achievements[5]],
+		PlayerInfo[playerid][Achievements[6]],
+		PlayerInfo[playerid][Achievements[7]],
+		PlayerInfo[playerid][Achievements[8]],
+		PlayerInfo[playerid][Achievements[9]],
+		PlayerInfo[playerid][Achievements[10]],
+		);
+
 	cache_delete(getcache);
-	LoadAchievements(playerid);
 	return 1;
 }
 
-LoadAchievements(playerid)
-{
-
-}
 
 forward public AccountSettingUp(playerid, dialogid, response, listitem, inputtext[]);
 public AccountSettingUp(playerid, dialogid, response, listitem, inputtext[])
