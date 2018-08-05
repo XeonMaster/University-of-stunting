@@ -173,7 +173,7 @@ LoadPlayerAccount(playerid)
 	new string[24]
 	cache_get_value_name_int(0, "Achievements", string); 
 	
-	sscanf(string 
+	sscanf(string, 
 		"i(0)i(0)i(0)i(0)i(0)i(0)i(0)i(0)i(0)i(0)", 
 		PlayerInfo[playerid][Achievements[0]], 
 		PlayerInfo[playerid][Achievements[1]],
