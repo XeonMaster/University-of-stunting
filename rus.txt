@@ -1,9 +1,0 @@
-C:\Users\irika\OneDrive\Documents\GitHub\University-of-stunting\Uos.pwn(40) : ôàòàëüíàÿ îøèáêà 111: ïîëüçîâàòåëüñêàÿ îøèáêà: Error: players/main.pwn is not fully included.
-
-
-Êîìïèëÿöèÿ îñòàíîâëåíà.
-
-Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
-
-
-Îøèáîê:1.
