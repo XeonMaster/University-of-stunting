@@ -9,6 +9,7 @@
 *********************************************************/
 
 #include <a_samp>
+#include <fixes>
 
 // Saving System.
 #include <a_mysql>
