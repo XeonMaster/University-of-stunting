@@ -8,9 +8,6 @@
 *														*
 *********************************************************/
 
-// @YSI.inc
-#pragma disablerecursion
-
 // @BanFunctions.inc
 #define DISCONNECT_TYPE_TIMEOUT 	(0)
 #define DISCONNECT_TYPE_KICK 		(1)
@@ -58,7 +55,6 @@ GetIP(playerid)
 	return string;
 }
 
-native gpci(playerid, serial[], len);
 GetGPCI(playerid)
 {
 	new string[56];

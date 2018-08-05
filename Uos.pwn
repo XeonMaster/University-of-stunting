@@ -31,16 +31,12 @@
 // Global Gamemode.
 #include "Server\main.pwn"
 
-#if !defined servermain
-	#error Error: server\main.pwn is not fully included.
-#endif
-
 #include "Administration\main.pwn"
 
 #if !defined adminsmain
 	#error Error: administration\main.pwn is not fully included.
 #endif
-
+/*
 #include "Players\main.pwn"
 
 #if !defined playersmain
@@ -63,4 +59,4 @@
 
 #if !defined socialmain
 	#error Error: social media\main.pwn is not fully included.
-#endif
+#endif*/
