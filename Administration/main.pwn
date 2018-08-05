@@ -12,5 +12,5 @@
 #include "Administration/BanFunctions.inc"
 #include "Administration/Commands.inc"
 
-#define adminmain
+#define adminsmain
 

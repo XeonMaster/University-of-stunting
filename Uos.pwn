@@ -29,38 +29,38 @@
 #include "config.inc"
 
 // Global Gamemode.
-#include "Server/main.pwn"
+#include "Server\main.pwn"
 
 #if !defined servermain
-	#error Error: players/main.pwn is not fully included.
+	#error Error: server\main.pwn is not fully included.
 #endif
 
-#include "Administration/main.pwn"
+#include "Administration\main.pwn"
 
 #if !defined adminsmain
-	#error Error: players/main.pwn is not fully included.
+	#error Error: administration\main.pwn is not fully included.
 #endif
 
-#include "Players/main.pwn"
+#include "Players\main.pwn"
 
 #if !defined playersmain
-	#error Error: players/main.pwn is not fully included.
+	#error Error: players\main.pwn is not fully included.
 #endif
 
-#include "Games/main.pwn"
+#include "Games\main.pwn"
 
 #if !defined gamessmain
-	#error Error: players/main.pwn is not fully included.
+	#error Error: games\main.pwn is not fully included.
 #endif
 
-#include "Maps/main.pwn"
+#include "Maps\main.pwn"
 
 #if !defined mapsmain
-	#error Error: players/main.pwn is not fully included.
+	#error Error: maps\main.pwn is not fully included.
 #endif
 
-#include "Social Media/main.pwn"
+#include "Social Media\main.pwn"
 
 #if !defined socialmain
-	#error Error: players/main.pwn is not fully included.
+	#error Error: social media\main.pwn is not fully included.
 #endif

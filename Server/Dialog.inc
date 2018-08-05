@@ -16,5 +16,4 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
 	CallLocalFunction("AccountSettingUp", "iiiis", playerid, dialogid, response, listitem, inputtext);
 	return 1;
-
 }
