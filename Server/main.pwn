@@ -8,7 +8,7 @@
 *														*
 *********************************************************/
 
-#include "Server/Variables & Functions.inc"
-#include "Server/Dialog.inc"
+#include "Server\Variables_Functions.inc"
+#include "Server\Dialog.inc"
 
 #define servermain

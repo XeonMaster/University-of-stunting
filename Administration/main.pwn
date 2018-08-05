@@ -8,9 +8,9 @@
 *														*
 *********************************************************/
 
-#include "Administration/Functions.inc"
-#include "Administration/BanFunctions.inc"
-#include "Administration/Commands.inc"
+#include "Administration\Functions.inc"
+#include "Administration\BanFunctions.inc"
+#include "Administration\Commands.inc"
 
 #define adminsmain
 
