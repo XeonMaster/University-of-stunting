@@ -45,15 +45,15 @@ Just go to https://github.com/XeonMaster/University-of-stunting/issues/new and f
 
 Developements for UoS is open for everyone you just need to have an github account and to follow the steps below:
 
-1 - Go to https://github.com/XeonMaster/University-of-stunting/ and click on fork button up in the right.
+- Go to https://github.com/XeonMaster/University-of-stunting/ and click on fork button up in the right.
 
-2 - After the repo got forked, do the edits you want to do.
+- After the repo got forked, do the edits you want to do.
 
-3 - After you done editing go to https://github.com/XeonMaster/University-of-stunting/compare and Create a new pull request.
+- After you done editing go to https://github.com/XeonMaster/University-of-stunting/compare and Create a new pull request.
 
-4 - Wait until your pull request gets revised by our managements or developers.
+- Wait until your pull request gets revised by our managements or developers.
 
-5 - We thank you very much for help us in the developement.
+- We thank you very much for help us in the developement.
 
 Thank you for reading this, if you need any help or assistance please contact us at uosinfo@gmail.com
 Xeon.
