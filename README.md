@@ -55,6 +55,6 @@ Developements for UoS is open for everyone you just need to have an github accou
 
 - We thank you very much for help us in the developement.
 
-Thank you for reading this, if you need any help or assistance please contact us at uosinfo@gmail.com
+Thank you for reading this, if you need any help or assistance please contact us at uosinfop@gmail.com
 
 Xeon.
