@@ -5,7 +5,7 @@ Welcome contributor! I'm going to guide you a bit as i can :D
 **1- Gamemode Plan:**
 
 Our gamemode plan is the following:
-`
+
 
                              |-> Anticheat, Server Init, exit.
             -> Server ---------> Main Gamemode settings.
@@ -21,7 +21,7 @@ Our gamemode plan is the following:
                              |-> HuntingGames Such as moneybag, cookiejars, gifts.
                              |-> Achievements and more games to add in the future.
             
- UoS.pwn   -> Maps -----------> This part of the gamemode isn't open-source. (Maybe in the future)
+    UoS.pwn   -> Maps -----------> This part of the gamemode isn't open-source. (Maybe in the future)
 
             -> Models ---------> 0.3.7-DL Models, Skins, Objects..
             
@@ -32,7 +32,7 @@ Our gamemode plan is the following:
                              |-> Discord -> Players will be able to use some commands in discord to communicate with ingame players.
             -> Social Media ---> IRC     -> Echo the server chat to irc plus administrative commands.
                              |-> Forum   -> Players will be able to see lastest threads and replies. 
- `
+ 
 **2- Reporting a bug**
 
 Of course, in any script of program there's bugs, So we wanted to make things easier for you.
