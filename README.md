@@ -21,7 +21,7 @@ Our gamemode plan is the following:
                              |-> HuntingGames Such as moneybag, cookiejars, gifts.
                              |-> Achievements and more games to add in the future.
             
-- UoS.pwn   -> Maps -----------> This part of the gamemode isn't open-source. (Maybe in the future)
+ UoS.pwn   -> Maps -----------> This part of the gamemode isn't open-source. (Maybe in the future)
 
             -> Models ---------> 0.3.7-DL Models, Skins, Objects..
             
