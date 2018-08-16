@@ -275,3 +275,8 @@ public AccountSettingUp(playerid, dialogid, response, listitem, inputtext[])
 		}
 	}
 }
+
+SaveStats(playerid)
+{
+	return 1;
+}

@@ -127,3 +127,33 @@ ResetVariables(playerid)
 	PlayerInfo[playerid] = tmp;
 	return 1;
 }
+
+// @Gamemode.inc
+SetUpTimers()
+{
+	SetTimer("HuntGamesTimer", 5*60*1000, true);	
+}
+
+// @HuntingGames.inc
+new 
+	
+	// MoneyBag
+	MoneyBagFound, 
+	MoneyBagPickup,
+	MoneyBagPos[3],
+	MoneyBagLocation[24],
+
+	// Gifts
+	GiftFound, 
+	GiftPickup,
+	GiftPos[3],
+	GiftLocation[24],
+
+	// CookiesJar
+	CookiesJarFound, 
+	CookiesJarPickup,
+	CookiesJarPos[3],
+	CookiesJarLocation[24],
+
+;
+

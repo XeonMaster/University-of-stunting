@@ -10,5 +10,6 @@
 
 #include "Server\Variables_Functions.inc"
 #include "Server\Dialog.inc"
+#include "Server\Gamemode.inc"
 
 #define servermain

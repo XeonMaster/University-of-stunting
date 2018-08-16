@@ -64,6 +64,7 @@ public OnPlayerDisconnect(playerid, reason)
 		format(string, sizeof(string), "unbanip %s", GetIP(playerid));
 		SendRconCommand(string);
 	}
+	SaveStats(playerid);
 	ResetVariables(playerid);
 	return 1;
 }
