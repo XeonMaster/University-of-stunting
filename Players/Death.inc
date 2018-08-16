@@ -7,3 +7,8 @@
 * 	- File: Deaths file.					   			*
 *														*
 *********************************************************/
+
+public OnPlayerDeath(playerid, reason)
+{
+	return 1;
+}
