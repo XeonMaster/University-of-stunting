@@ -25,6 +25,9 @@
 #include <irc>
 #include <discord-connector>
 
+// Map Andrease plugin for 2D "Y, Z" exact position using 3D detection.
+#include <MapAndreas>
+
 // Gamemode Config.
 #include "config.inc"
 
